@@ -1,0 +1,35 @@
+
+streamlit
+python-dotenv
+pypdf
+pymupdf
+langchain-groq
+
+
+
+
+# langchain
+# langchain-openai
+# dotenv
+# langchain-google-genai
+# langchain-anthropic
+# streamlit
+# langchain-ollama
+# langchain-groq
+# langchain-community
+# langgraph
+# pypdf
+# beautifulsoup4
+# wikipedia
+# streamlit
+# python-dotenv
+# pypdf
+# langchain-groq
+
+activate: .venv\Scripts\activate
+
+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
+
+
+pip install -U langchain-groq
+pip install -U python-dotenv langchain-groq
