@@ -25,10 +25,10 @@ langchain-groq
 # pypdf
 # langchain-groq
 
-activate: .venv\Scripts\activate
+# activate: .venv\Scripts\activate
 
-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
+# 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
 
 
-pip install -U langchain-groq
-pip install -U python-dotenv langchain-groq
+# pip install -U langchain-groq
+# pip install -U python-dotenv langchain-groq
